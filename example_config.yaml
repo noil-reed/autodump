@@ -1,0 +1,8 @@
+medium: mysql
+param:
+# Mysql configurations
+  host: localhost:3306
+  user: user
+  password: password
+  database: db1
+  table: tb1

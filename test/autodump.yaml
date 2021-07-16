@@ -1,0 +1,7 @@
+medium: mysql
+param:
+  host: localhost
+  port: 3306
+  user: root
+  password: Tkz9At73QuET
+  database: exp-test
